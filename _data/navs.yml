@@ -43,8 +43,8 @@ mainnav:
         page: 'Home'
         url: /
       -
-        page: 'Getting Consent'
-        url: /consent/
+        page: 'Tab one'
+        url: /tab/
       
       
      
