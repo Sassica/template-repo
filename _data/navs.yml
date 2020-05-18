@@ -52,14 +52,13 @@ bottomnav:
   -
     items: 
       -
-        page: 'Takedown position statement'
-        url: /takedown/
+        page: 'Footer 1'
+        url: /footer/
       -
-        page: 'Copyright and disclaimer'
-        url: /copyright/  
+       
       -
         page: 'Privacy'
-        url: https://www.customerservice.nsw.gov.au/privacy
+        url: Link to privacy page on main website
         external: true
       -
         page: 'Accessibility'
